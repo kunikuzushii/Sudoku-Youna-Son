@@ -4,9 +4,9 @@ This project is a Java console application that generates and prints a fully sol
 
 This code runs on the main rules of Sudoku:
 
-Unique numbers per column
-Unique numbers per row
-Unique numbers for each box or 3x3 grid inside the 9x9 grid
+1) Unique numbers per column
+2) Unique numbers per row
+3) Unique numbers for each box or 3x3 grid inside the 9x9 grid
 This logic is followed by using Math.random() everytime the program loads. Additionally, Arraylists are used to map and store the numbers 1-9.
 
 List of Files is this README.md AND the console application, sudoku.java (for part 1)
