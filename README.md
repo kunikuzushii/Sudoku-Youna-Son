@@ -2,6 +2,7 @@
 2025-2026 AP CSA Sudoku Generator Project
 This project is a Java console application that generates and prints a fully solved 9x9 Sudoku board. It is completely random and will generate a random board every time you load it.
 
+Video Link: https://drive.google.com/file/d/1TXrF9VbbMS_CfoN94pthUZFLsz8MZSaS/view?usp=sharing
 This code runs on the main rules of Sudoku:
 
 1) Unique numbers per column
